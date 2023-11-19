@@ -10,5 +10,5 @@
 7) Done.
 ## Pull:
 1) Open terminal (or GIT terminal)
-2) cd PATH/TO/FEFU folder
+2) cd PATH/TO/SpecSpace folder
 3) git restore . && git pull https://github.com/dvniry/SpecSpace/
