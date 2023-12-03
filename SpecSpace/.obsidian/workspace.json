@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "186dbaefe13a4179",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea2d7b19a15825b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "300685a6bdbdb14c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SPECIAL/МатАн/Коллоквиум/3.Введение. Вещественные числа.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c9999949caba6b62",
+    "type": "split",
+    "children": [
+      {
+        "id": "726773027d1fa0bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1be033ae6e459b3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a8ecee1a67b35250",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "990ad57ef7f2467f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "22e698cd6888700c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d4d73b57a769e9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5402ff93ac747339",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SPECIAL/МатАн/Коллоквиум/3.Введение. Вещественные числа.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6372d29d686472fa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SPECIAL/МатАн/Коллоквиум/3.Введение. Вещественные числа.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "82453db83aa2ed16",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9519dd136686d93d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SPECIAL/МатАн/Коллоквиум/3.Введение. Вещественные числа.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "300685a6bdbdb14c",
+  "lastOpenFiles": [
+    "SPECIAL/МатАн/Коллоквиум/1.Введение. Множества и функции.md"
+  ]
+}
